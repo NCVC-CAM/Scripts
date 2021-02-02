@@ -1,0 +1,2 @@
+[NC_Code_Checker.pl実行結果]
+24行目: GOTO1 ← GOTO実行回数が上限値500を超えました。

@@ -1,0 +1,2 @@
+[NC_Code_Checker.pl実行結果]
+4行目(O1001中/MAIN L17): WHILE[#1 GE 0]DO1 ← ループ回数が上限数300を超えました。

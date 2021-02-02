@@ -1,0 +1,3 @@
+[NC_Code_Checker.pl実行結果]
+4行目(O1001中/MAIN L17): WHIL[#1LE10]DO1 ← アドレスWに数値がありません。
+4行目(O1001中/MAIN L17): WHIL[#1LE10]DO1 ← ループ回数が上限数300を超えました。
